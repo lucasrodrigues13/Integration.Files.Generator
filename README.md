@@ -1,4 +1,4 @@
-# File Generator Worker - POC
+# Integration Files Generator Worker - POC
 
 ## Descrição
 
