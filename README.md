@@ -33,7 +33,7 @@ Atualmente a POC não conecta a banco de dados ou serviços externos, apenas sim
 ---
 
 ## Estrutura do Projeto
-
+```
 Integration.Files.Generator
 │
 ├─ Core
@@ -55,7 +55,7 @@ Integration.Files.Generator
 └─ Worker
 └─ Program.cs
 └─ Worker.cs
-
+```
 ---
 
 ## Como rodar a POC
